@@ -89,16 +89,3 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</p>
-
-<p align="center">
-  <img src="./metrics.calendar.svg" alt="Contribution calendar" />
-</p>
-
----
-
-<p align="center">⭐️ From <a href="https://github.com/Chippiiiiiii">Chippiiiiiii</a></p>
