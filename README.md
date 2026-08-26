@@ -15,6 +15,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Chakravyuha_2026** — a real-time auction web app built with Express + Socket.IO
+- 🍽️ Built a **Canteen App** and a **Hostel Management System** — full-stack CRUD apps solving actual campus problems
 - 🎲 Big fan of turning board games into code — check out my **Monopoly** series (Java, C and web versions)
 - 🌱 Learning **React, REST APIs and backend databases**
 - 💬 Ask me about **Java, C, C++, DSA or anything game-dev flavoured**
@@ -69,6 +70,8 @@
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Chakravyuha_2026**](https://github.com/Chippiiiiiii/Chakravyuha_2026) | Real-time auction app with live bidding over websockets | Node.js, Express, Socket.IO, JavaScript |
+| [**Canteen App**](https://github.com/Chippiiiiiii/REPO-NAME-HERE) | Campus canteen ordering system — browse the menu, place orders and track them | *(fill in your stack)* |
+| [**Hostel Management**](https://github.com/Chippiiiiiii/REPO-NAME-HERE) | Room allocation, resident records and mess/attendance tracking for a hostel | *(fill in your stack)* |
 | [**Cmonopoly**](https://github.com/Chippiiiiiii/Cmonopoly) | Browser-playable take on Monopoly | HTML, CSS, JavaScript |
 | [**Monopoly**](https://github.com/Chippiiiiiii/Monopoly) / [**Monopoly-**](https://github.com/Chippiiiiiii/Monopoly-) | Console implementations of the classic board game | Java / C |
 | [**Java**](https://github.com/Chippiiiiiii/Java) | Practice programs, OOP concepts and problem solving | Java |
@@ -79,15 +82,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chippiiiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chippiiiiiii&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chippiiiiiii&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chippiiiiiii&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chippiiiiiii&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Chippiiiiiii&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 ---
