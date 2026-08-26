@@ -87,24 +87,16 @@
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
-<!--
-  IMPORTANT: replace YOUR-STATS-INSTANCE and YOUR-STREAK-INSTANCE below with your own
-  Vercel deployments. The shared public instances are paused / rate-limited and will
-  render as broken images. See the setup notes in the chat.
--->
-
 <p align="center">
-  <img src="https://YOUR-STATS-INSTANCE.vercel.app/api?username=Chippiiiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
 <p align="center">
-  <img src="https://YOUR-STATS-INSTANCE.vercel.app/api/top-langs/?username=Chippiiiiiii&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://YOUR-STREAK-INSTANCE.vercel.app?user=Chippiiiiiii&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="./metrics.calendar.svg" alt="Contribution calendar" />
 </p>
 
 ---
